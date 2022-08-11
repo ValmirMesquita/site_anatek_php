@@ -1,0 +1,212 @@
+
+body{ 
+    
+    background-color: #e0dbdb; 
+    text-decoration: none; 
+    
+    
+}
+
+
+
+.header { 
+    background-color: #080707; 
+    max-width: 100%;
+    height: auto;
+    padding: 2% 0% 2%; 
+    
+ }
+
+    
+/* Configuração da posição da logo*/  
+.logosite {
+    margin : 0% 5% 0%; 
+    
+    
+}
+
+/* Configuração do menu*/
+.menu {
+    background-color: #131212; 
+    width: 100%;
+    padding: 1% 0% 1%;
+    
+    
+}
+
+.menu2 {   
+    font-family:Verdana, Geneva, Tahoma, sans-serif; 
+    text-align: center;
+    font-size: 100% ;
+    
+    word-spacing: 25px;       
+}
+
+/* unvisited link */
+a:link {
+  color: rgb(196, 165, 29);
+  text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+  color: rgb(196, 165, 29);
+}
+
+/* mouse over link */
+a:hover {
+  color: rgb(252, 250, 251);
+}
+
+/* selected link */
+a:active {
+  color: rgb(252, 250, 251);
+}
+
+
+
+/* --------------Conteudo 1*------------*/
+.conteudo1 { 
+    background-color: hsl(0, 0%, 100%); 
+    margin : 0%  0%  0%  ;
+    padding: 2% 0% 2%; 
+    height: 100%; 
+    font-size: 30px;
+     
+ }
+ 
+.conteudo11 {
+    
+    margin : 0% 5% 0%; 
+    padding: 0% 0% 0%;
+    color: #050505;
+    font-size: 50% ;
+    font-family: 'Lucida Sans',  Geneva, Verdana, sans-serif ; 
+}
+
+/* --------------Conteudo 2*------------*/
+.conteudo2 { 
+  background-color: hsl(0, 0%, 100%); 
+    margin : 0%  0%  0%  ;
+    padding: 2% 0% 2%; 
+    height: 100%; 
+    align-content: center;
+     
+ }
+ 
+.conteudo22 {
+    
+    margin : 0% 5% 0%; 
+    padding: 0% 0% 0%;
+    color: #080808;
+    font-size: 80% ;
+    font-family: 'Lucida Sans',  Geneva, Verdana, sans-serif ; 
+}
+/* --------------Conteudo 3*------------*/
+.conteudo3 { 
+  background-color: hsl(0, 0%, 100%); 
+    margin : 0%  0%  0%  ;
+    padding: 2% 0% 2%; 
+    height: 100%; 
+    align-content: center;
+     
+ }
+ 
+.conteudo33 {
+    
+    margin : 0% 5% 0%; 
+    padding: 0% 0% 0%;
+    color: #0c0c0c;
+    font-size: 80% ;
+    font-family: 'Lucida Sans',  Geneva, Verdana, sans-serif ; 
+}
+
+
+
+/* Configuração do bloco da logo inicio*/
+.textbox { 
+    background-color: #353434; 
+    margin : 0%  0%  0%  ;
+    padding: 2% 0% 2%; 
+    height: 100%; 
+    align-content: center;
+     
+ }
+ 
+.textbox1 {
+    
+    margin : 0% 5% 0%; 
+    padding: 0% 3% 0%;
+    color: #fcfafa;
+    font-size: 80% ;
+    font-family: 'Lucida Sans',  Geneva, Verdana, sans-serif ; 
+}
+ 
+  /* Crie três colunas iguais que flutuam lado a lado */
+  .column {
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    width: 30%; 
+    font-size: 16px;
+    margin : 2% 1% 2%; 
+    padding: 0% 4% 0%;
+
+  }
+
+.img-container {
+    float: left;
+    width: 33.33%;
+    padding: 25px;
+  }
+  
+  .clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+div.gallery {
+    align-content: center;
+    margin: 5px;
+    border: 1px solid hsla(0, 1%, 37%, 0);
+    float: left;
+    width: 180px;
+  }
+  
+  div.gallery:hover {
+    border: 1px solid rgba(102, 100, 100, 0.918);
+  }
+  
+  div.gallery img {
+    width: 100%;
+    height: auto;
+  }
+  
+  div.desc {
+    padding: 5px;
+    text-align: center;
+  }
+
+
+
+  
+/* Configuração do rodape */
+.footerblock {
+    background-color: #121213;
+    margin : 0%;
+    padding: 5% 0% 5%; 
+    width: 100%; 
+}
+.footer {
+    color: #fcf8f8;
+    font-size: 100% ;
+    font-family: 'Lucida Sans',  Geneva, Verdana, sans-serif ;
+    text-align: center;
+    
+  
+}
+
+
+
+
+  
